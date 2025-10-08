@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Shaik Fayazuddn 👋</h1>
+<h1 align="center">Hey there! I'm Fayazuddin 👋</h1>
 <h3 align="center">🚀 Frontend Developer | MERN Stack | Open Source ♥ | DevOps 🚀</h3>
 
 <p align="center">
